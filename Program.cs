@@ -11,6 +11,7 @@ namespace Lab4
         static void Main(string[] args)
         {
 
+            Console.WriteLine();
         }
     }
 }
